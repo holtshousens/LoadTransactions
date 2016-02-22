@@ -12,5 +12,9 @@ def main():
     return 0
 
 
+def checkFile():
+    count = 0
+
+
 if __name__ == '__main__':
     main()
